@@ -1,7 +1,7 @@
 # Coursera - Developing Data Products- Course Project 
 
 
-# ui.R file for the shiny app 
+# ui.R file for the shiny appp
 
 
 # This app was developed to help people choose the best car for their trip, using mtcars dataset, from [R]  
