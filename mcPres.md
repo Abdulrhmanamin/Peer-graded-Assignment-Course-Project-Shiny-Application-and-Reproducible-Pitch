@@ -1,12 +1,17 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 Developing Data Products
 Course Project
 
 ========================================================
 Select the the cheapest and the best car for your trip
 
-author:Abdallrehab
+author:Abdelrhman Amin
 
-date: 28.08.2020.
+date: 05.05.2020.
 ========================================================
 Introduction
 
